@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](linkedin.com/in/berdogan35)
 #### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+
 
 <!--
 **blue06900/blue06900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
