@@ -1,7 +1,5 @@
 ### Hi there 👋 My Name  is Bülent
-<p align='center'>
-  I live in izmir 
-</p>
+
 
 
 <p align='center'>
