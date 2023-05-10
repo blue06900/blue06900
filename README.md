@@ -43,17 +43,17 @@
 <p align='right'>
 
 </p>
+<hr>
 
-```text
 🌞 Morning                85 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
 🌆 Daytime                809 commits         ██████████████░░░░░░░░░░░   54.26 %
 🌃 Evening                553 commits         █████████░░░░░░░░░░░░░░░░   37.09 %
 🌙 Night                  44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+
 <hr>
 
 
-
-<!--
+<!-- 
 **blue06900/blue06900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -66,6 +66,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+! -->
 
 
